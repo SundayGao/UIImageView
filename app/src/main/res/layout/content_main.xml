@@ -19,8 +19,9 @@
         android:text="Hello World!" />
 
     <com.gyw.uiimageview.UIImageView
+        android:id="@+id/uiiv_icon"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/icon_ui_imageview"
+        android:src="@drawable/icon"
         uiimageview:shape_type="round" />
 </RelativeLayout>
