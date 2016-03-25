@@ -6,4 +6,3 @@
 <img src="/screenshots/a.jpg" width="288" height="512" border="0" alt="screenshot">
 <img src="/screenshots/b.jpg" width="288" height="512" border="0" alt="screenshot">
 
-![jlog sample](http://7xize8.com1.z0.glb.clouddn.com/jlog_sample.gif)
