@@ -5,7 +5,5 @@
 
 ## Screenshots
 
-<img src="/screenshots/a.jpg" width="288" height="512" border="0" alt="screenshot">
-<img src="/screenshots/b.jpg" width="288" height="512" border="0" alt="screenshot">
 <img src="/screenshots/UIImageView.gif" width="288" height="512" border="0" alt="screenshot">
 
